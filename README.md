@@ -1,1 +1,4 @@
-I made a README but I can't remember what to put in it
+Project:Recipes is the first assignment of the Odin Project. It's supposed to test what you've currently been introduced to and put into practice by the best means possible. Food recipes. Which use all the basic html things you learn right hecking there.
+There's both a lot I've learned and struggled through in this, small steps missed here and there. A grand time all around. Somehow I've managed to figure out how to manually add folders in github by adding / after the word in my repositories which is nice though. However coding all of that bit by bit and from the ground up is something I have to work on patience wise. I skipped properly cloning the repository to my system and went straight to manually created folders and html documents in VSC to finish this project. I should honestly brush up on this exact assignment again just to see what I skimped over to work on using github more and understanding coding nuance
+
+10/4/2021
